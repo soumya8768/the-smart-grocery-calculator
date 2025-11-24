@@ -17,7 +17,7 @@
 
 import streamlit as st
 
-st.title("🛒 The Smart Grocer Calculator")
+st.title("🛒 The Smart Grocery Calculator")
 
 # Get user name
 name = st.text_input("Enter Your Name")
